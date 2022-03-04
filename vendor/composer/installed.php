@@ -1,12 +1,12 @@
 <?php return array (
   'root' => 
   array (
-    'pretty_version' => 'v2.0.11',
-    'version' => '2.0.11.0',
+    'pretty_version' => 'dev-main',
+    'version' => 'dev-main',
     'aliases' => 
     array (
     ),
-    'reference' => NULL,
+    'reference' => 'b3264aaa2da459fcf3581a63ac5836aa1bdb9965',
     'name' => 'swoft/swoft',
   ),
   'versions' => 
@@ -673,12 +673,12 @@
     ),
     'swoft/swoft' => 
     array (
-      'pretty_version' => 'v2.0.11',
-      'version' => '2.0.11.0',
+      'pretty_version' => 'dev-main',
+      'version' => 'dev-main',
       'aliases' => 
       array (
       ),
-      'reference' => NULL,
+      'reference' => 'b3264aaa2da459fcf3581a63ac5836aa1bdb9965',
     ),
     'swoft/swoole-ide-helper' => 
     array (
