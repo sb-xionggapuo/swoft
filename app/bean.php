@@ -67,7 +67,8 @@ return [
             // \Swoft\Whoops\WhoopsMiddleware::class,
             // Allow use @View tag
             \Swoft\View\Middleware\ViewMiddleware::class,
-            \Swoft\Devtool\Http\Middleware\DevToolMiddleware::class
+            \Swoft\Devtool\Http\Middleware\DevToolMiddleware::class,
+            \App\Http\Middleware\TestMiddleware::class
         ],
         'afterMiddlewares' => [
             \Swoft\Http\Server\Middleware\ValidatorMiddleware::class
